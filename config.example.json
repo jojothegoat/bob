@@ -1,0 +1,51 @@
+{
+  "news_url": "http://www.blessonline.net/news_contents?notice_type=all",
+  "forum_urls": [
+    "https://steamcommunity.com/id/Bless_Cheshire/posthistory",
+    "https://steamcommunity.com/profiles/76561198435578090/posthistory"
+  ],
+  "youtube": {
+    "playlist_id": "UUctdhIjIBjL3yWagQ4JilIw",
+    "api_key": ""
+  },
+  "steam": {
+    "appid": 681660,
+    "key": ""
+  },
+  "twitter": {
+    "follow": ["924936535111213056"],
+    "api": {
+      "consumer_key": "",
+      "consumer_secret": "",
+      "access_token": "",
+      "access_token_secret": ""
+    }
+  },
+  "reddit": {
+    "options": {
+      "clientId": "",
+      "clientSecret": "",
+      "username": "",
+      "password": ""
+    },
+    "subreddit": "Bless"
+  },
+  "gamepedia": {
+    "protocol": "https",
+    "server": "blessonline.gamepedia.com",
+    "username": "",
+    "password": ""
+  },
+  "mongodb": {
+    "uri": "mongodb://localhost:27017/bob",
+    "database": "bob"
+  },
+  "logWebhook": {
+    "id": "",
+    "token": ""
+  },
+  "telegram": {
+    "token": "",
+    "channel_id": ""
+  }
+}
